@@ -1,6 +1,6 @@
 # retail-buddy-policy
 
-The public Terms &amp; Privacy page for the **Retail Buddy** app, served by GitHub Pages.
+The public Terms &amp; Privacy page for the **Retail Margin Buddy** app, served by GitHub Pages.
 
 This repository is public **only** so GitHub Pages can serve it on the free tier. The
 app's own source lives in the private `retail-buddy` repository.
